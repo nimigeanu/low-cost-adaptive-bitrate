@@ -1,0 +1,52 @@
+{
+	"sequences": [
+		{
+			"clips": [
+				{
+					"type": "source",
+					"path": "sample1_160p.mp4"
+				}
+			]
+		},
+		{
+			"clips": [
+				{
+					"type": "source",
+					"path": "sample1_240p.mp4"
+				}
+			]
+		},
+		{
+			"clips": [
+				{
+					"type": "source",
+					"path": "sample1_360p.mp4"
+				}
+			]
+		},
+		{
+			"clips": [
+				{
+					"type": "source",
+					"path": "sample1_480p.mp4"
+				}
+			]
+		},
+		{
+			"clips": [
+				{
+					"type": "source",
+					"path": "sample1_720p.mp4"
+				}
+			]
+		},
+		{
+			"clips": [
+				{
+					"type": "source",
+					"path": "sample1_1080p.mp4"
+				}
+			]
+		}
+	]
+}
